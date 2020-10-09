@@ -1,0 +1,72 @@
+body{
+	background-color: #efe4e0;
+}
+.header {
+    font-family: daggersquare;
+    border-bottom: 2px solid black;
+    margin: 11px 0px 24px 400px;
+    display: inline-block;
+    text-align: center;
+    font-size: 45px;
+}
+
+.img{
+	width:300px;
+	height:300px;
+	border-radius: 50%;
+	border: 2px solid white;
+	margin-left: 40%;
+
+}
+
+.about-molla p{
+	width: 800px;
+	margin: 0px auto;
+	font-family: cursive;
+	font-size: 30px;
+	color: #151110;
+	margin-bottom:25px;
+}
+
+.about-molla h1 {
+    font-family: daggersquare;
+    border-bottom: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    font-size: 45px;
+    margin-left: 12px;
+}
+
+.same-heading{
+	display: inline-block;
+	border-bottom:2px solid black;
+	font-size:30px;
+	font-family: daggersquare;
+	margin-left: 20px;
+}
+
+.same-text{
+	font-family: cursive;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+.find-me h1{
+	display: inline-block;
+	border-bottom:2px solid black;
+	font-size:30px;
+	font-family: daggersquare;
+	margin-left: 20px;
+}
+.find-me ul li{
+	list-style-type: none;
+	font-family: cursive;
+	color: cadetblue;
+	font-size: 20px;
+	text-decoration: none;
+
+}
+
+.find-me ul{
+	text-decoration: none;
+}
